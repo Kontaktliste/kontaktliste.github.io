@@ -1,3 +1,12 @@
+# 1.1.1 (2020-10-29)
+
+## Text Improvements
+
+* Removed the Covid-19 related parts from the privacy notes.
+* Fixed a typo in the privacy note
+* Removed link to the app store (no url currently available)
+* Changed Splash texts, so they fit more the current functions.
+
 # 1.1.0 (2020-10-29)
 
 ## Added english privacy note
